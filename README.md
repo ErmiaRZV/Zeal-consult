@@ -5,9 +5,8 @@
 - [Demo Project](https://ermiarzv.github.io/Zeal-consult/)
 - Developed by Ermia Razavi
 - Created - November 2024
-- 🤖 Technologies Used - Html , css(Tailwind) 
+- 🤖 Technologies Used - Html , Tailwind css
 - How to reach me : with my
-[instagram](https://www.instagram.com/ermia_razavi.dev) and
 [linkedin](https://www.linkedin.com/in/ermia-razavi-a611312a3/)
 
 ![Zeal Consult - Google Chrome 11_18_2024 10_39_07 PM](https://github.com/user-attachments/assets/899e7fb2-60d6-41fa-be0c-d723d000a545)
